@@ -29,7 +29,7 @@
 
 ### 2. [TPSProject](https://github.com/KoalitsiyaSV/Unreal-TPS-Project)
 > 목표: Unreal 3D 협동 TPS 게임 (팀 프로젝트)
->  
+> 개발 기간: 2024.04 ~ (진행중)
 >  
 >기술 스택:  
 >UnrealEngine5/C++ 
