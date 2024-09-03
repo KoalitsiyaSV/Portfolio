@@ -14,6 +14,15 @@
 
 </br>
 
+# Skills
+### 프로그래밍 언어
+> C++
+> C#
+
+
+
+</br>
+
 # Projects
 ### 1. [Project PD](https://github.com/KoalitsiyaSV/CapstoneDesignUnity)
 > 목표: Unity 2D 로그라이크 게임  (팀 프로젝트)  
