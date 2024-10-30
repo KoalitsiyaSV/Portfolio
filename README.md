@@ -26,6 +26,7 @@
 
 ### 개발 도구
 > Visual Studio  
+> Visual Studio Code
 > Blender3D(간단한 에셋 편집)  
 > Aseprite(UI 제작)  
 
