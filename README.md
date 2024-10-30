@@ -18,13 +18,16 @@
 ### 프로그래밍 언어
 > C++  
 > C#  
+> Python
 
 ### 게임 엔진
-> Unity
-> Unreal Engine
+> Unity  
+> Unreal Engine 5  
 
 ### 개발 도구
-> Visual Studio
+> Visual Studio  
+> Blender3D(간단한 에셋 편집)  
+> Aseprite(UI 제작)  
 
 </br>
 
@@ -33,7 +36,7 @@
 > 목표: Unity 2D 로그라이크 게임  (팀 프로젝트)  
 > 개발 기간: 
 >  
->기술 스택:  
+> 기술 스택:  
 > Unity/C#
 
 ---
@@ -41,13 +44,23 @@
 ### 2. [TPSProject](https://github.com/KoalitsiyaSV/Unreal-TPS-Project)
 > 목표: Unreal 3D 협동 TPS 게임 (팀 프로젝트)
 > 개발 기간: 2024.04 ~ (진행중)
->  
->기술 스택:  
->UnrealEngine5/C++ 
+> 
+> 기술 스택:  
+> UnrealEngine5/C++ 
 
 ---
 
-### 3. [유사 홀로그램과 LSTM을 이용한 3D 수화 교육 시스템 개발 및 평가](https://github.com/KoalitsiyaSV/Development-and-Evaluation-of-a-3D-Sign-Language-Education-System-Using-Pseudo-Holograms-and-LSTM)
+### 3. 레드브릭 게임잼(예정)
+> 목표: -  
+> 개발 기간: 2024.11.01 - 2024.11.03  
+> 참여 인원: 3인
+> 
+> 기술 스택:  
+> Unity/C#  
+
+---
+
+### 4. [유사 홀로그램과 LSTM을 이용한 3D 수화 교육 시스템 개발 및 평가](https://github.com/KoalitsiyaSV/Development-and-Evaluation-of-a-3D-Sign-Language-Education-System-Using-Pseudo-Holograms-and-LSTM)
 > 목표: Unity와 인공지능 모델을 이용해 수화 교육 시스템 개발  (팀 프로젝트/Journal of KIIT 투고)  
 >개발 기간: ~ 2024.8.19
 >  
@@ -56,7 +69,7 @@
 
 ---
 
-### 4. [비주얼 베이직 게임 프로젝트](https://github.com/KoalitsiyaSV/Visual-Basic-Game-Project)
+### 5. [비주얼 베이직 게임 프로젝트](https://github.com/KoalitsiyaSV/Visual-Basic-Game-Project)
 > 목표: 비주얼 베이직 게임 제작 과제로 뱀서라이크 게임 제작  (개인 프로젝트)  
 >개발 기간: 2022.11 ~ 2022.12
 >  
