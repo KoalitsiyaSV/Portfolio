@@ -32,9 +32,7 @@
 
 </br>
 
-# Projects
-### 1. [Project PD](https://github.com/KoalitsiyaSV/CapstoneDesignUnity)
-> 목표: Unity 2D 횡스크롤 액션 게임# 최해영 포트폴리오
+# 최해영 포트폴리오
 > 게임 클라이언트 개발자가 되기 위해 포기하지 않고 계속해서 나아가겠습니다.
 
 </br>
