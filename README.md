@@ -32,48 +32,14 @@
 
 </br>
 
-# 최해영 포트폴리오
-> 게임 클라이언트 개발자가 되기 위해 포기하지 않고 계속해서 나아가겠습니다.
-
-</br>
-
-# Intro
-
-</br>
-
-# Contact
-- 이메일 : chyoung118@gmail.com
-- 블로그 : https://koalitsiya.tistory.com/
-- 깃허브 : https://github.com/KoalitsiyaSV
-
-</br>
-
-# Skills
-### 프로그래밍 언어
-> C++  
-> C#  
-> Python
-
-### 게임 엔진
-> Unity  
-> Unreal Engine 5  
-
-### 개발 도구
-> Visual Studio  
-> Visual Studio Code  
-> Blender3D(간단한 에셋 편집)  
-> Aseprite(UI 제작)  
-
-</br>
-
 # Projects
 ### 1. [프로젝트: 소망의 눈](https://github.com/PrintedLove/ShotgirlDefense)
-> 목표: Unity 2D 사이드뷰 액션 게임
-> 참여 인원 : 4인 (아트 2인, TA 1인, 클라이언트 1인(본인))
-> 개발 기간: 2025.07 ~ (진행중)
+> 목표: Unity 2D 사이드뷰 액션 게임  
+> 참여 인원 : 4인 (아트 2인, TA 1인, 클라이언트 1인(본인))  
+> 개발 기간: 2025.07 ~ (진행중)  
 >  
 > 기술 스택:  
-> Unity/C#
+> Unity/C#  
 
 ---
 
